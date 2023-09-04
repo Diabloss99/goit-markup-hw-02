@@ -133,7 +133,7 @@ body
     color: var(--logo-and-link-color);
 }
 
-.paragraph
+.description
 {
     font-size: 16px;
     line-height: 1.5;
@@ -182,7 +182,7 @@ body
     color: var(--click-and-focus);
 }
 
-.other-buttons
+.menu-buttons
 {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
@@ -194,8 +194,8 @@ body
     cursor: pointer;
 }
 
-.other-buttons:hover,
-.other-buttons:focus
+.menu-buttons:hover,
+.menu-buttons:focus
 {
     color: #ffffff;
     background-color: #404bbf;
